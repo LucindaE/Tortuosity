@@ -1,6 +1,6 @@
 #Written by Alessandro Felder & Lucinda Evans
 #Please acknowledge its use in any publications or presentations 
-#Skeletonises images from a directory with minimal branches - writes results to a file for tortuosity analysis
+#Produces .csv file with euclidean distances of endpoints and branch lengths from skeletonised images in a directory (if no branches are present)
 
 # @CommandService cs
 # @DisplayService ds
