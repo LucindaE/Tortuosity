@@ -1,3 +1,6 @@
+#Written by Alessandro Felder & Lucinda Evans
+#Please acknowledge its use in any publications or presentations 
+#Skeletonises images from a directory with minimal branches - writes results to a file for tortuosity analysis
 
 run("Close All");
 //directory = "F:\Mouse A I13 scan\Tortuosity_100VoxSW_childvolumeROItest\";
