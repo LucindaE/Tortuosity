@@ -1,3 +1,7 @@
+#Written by Alessandro Felder & Lucinda Evans
+#Please acknowledge its use in any publications or presentations 
+#Skeletonises images from a directory with minimal branches - writes results to a file for tortuosity analysis
+
 # @CommandService cs
 # @DisplayService ds
 
